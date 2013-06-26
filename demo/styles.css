@@ -1,0 +1,17 @@
+#log-output {
+    background-color: #333;
+    color: #bbb;
+    display: block;
+}
+#log-output .log-item {
+    border-bottom: 1px solid red;
+}
+#log-output .info-log-item {
+    color: #88F;
+}
+#log-output .warn-log-item {
+    color: #FF8;
+}
+#log-output .error-log-item {
+    color: #F88;
+}
